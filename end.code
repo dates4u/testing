@@ -1,0 +1,17 @@
+<!DOCTYPE CODE>
+new.code = true
+  if then false
+    make.true.playcode
+
+    line.new = 6
+     make print (new.line = .. if true = yes then message (line.7 = run) 
+
+make.end = true
+ end = true
+ not.end = false 
+ make.new.bye
+input.code = true
+  --
+    code.true = print ("the end")
+     if not print ("the end")
+     print ("the end")
